@@ -13,4 +13,4 @@ By considering the image, NME means need more effect, ACC stands for acceptable,
 You can also find the relation between fired from school and other factors such as students' GPA, father job and etc in *FiredFromSchool.ipynb* file. In Addition, in this file it had been shown which factors have most effect on fired from school.
 
 ## GPA Prediction
-In both *BalanceAveragePredict_Grade9.ipynb* and *BalanceAveragePredict_Adulthood.ipynb* I reported the results of GPA prediction for grade 9 students and adulthood students, respectively. Therefore, in GPA prediction for grade 9 students, the best prediction accuracy was achieved by Naïve Bayes which is 0.656 with 0.653 F1 score.
+In both *BalanceAveragePredict_Grade9.ipynb* and *BalanceAveragePredict_Adulthood.ipynb* I reported the results of GPA prediction for grade 9 students and adulthood students, respectively. Therefore, in GPA prediction for grade 9 students, the best prediction accuracy was achieved by **Naïve Bayes** which is **0.656** with **0.653 F1 score**.
